@@ -1,5 +1,6 @@
-#pip install piper-tts (version 1.2.0 is used in tests)
-
+# pip install piper-tts (version 1.2.0 is used in tests)
+# pip install setuptools wheel tts -U
+# pip install pip setuptools wheel -U
 import wave
 from piper.voice import PiperVoice
 
