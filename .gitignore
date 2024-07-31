@@ -24,3 +24,7 @@ piper-tts/voices_DE/thorsten-high/de_DE-thorsten-high.onnx.json
 piper-tts/voices_DE/thorsten-medium
 piper-tts/voices_DE/thorsten-medium/de_DE-thorsten-medium.onnx
 piper-tts/voices_DE/thorsten-medium/de_DE-thorsten-medium.onnx.json
+
+bark-tts/.python-version
+piper-tts/.python-version
+thorsten-tts/.python-version
